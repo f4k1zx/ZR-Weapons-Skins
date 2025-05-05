@@ -11,10 +11,4 @@ Simple Shotgun: cheat gfi zrshotgun 1 0 0
 
 Sword: cheat gfi zrsword 1 0 0
 # Credits
- https://x.com/f4k1zx
-
- https://www.instagram.com/f4k1zx/
-
- https://steamcommunity.com/id/f4k1zx/
-
- https://discord.gg/85bXfcYaQT/
+https://linktr.ee/f4k1zx
